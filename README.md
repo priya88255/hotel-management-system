@@ -19,32 +19,3 @@ Reporting: Generate comprehensive reports on occupancy rates, revenue, and other
 
 Technologies Used
 Java: Core programming language used for backend logic and data management.
-
-
-Installation
-
-Clone the repository to your local machine:
-
-bash
-
-
-Copy code
-git clone https://github.com/your_username/hotel-management-system.git
-
-
-Compile and run the application using your preferred Java IDE or build tool.
-Usage
-
-Navigate to the login page and sign in with your credentials.
-
-Explore the different functionalities of the system through the intuitive user interface.
-
-Make use of the various management tools to efficiently handle hotel operations.
-
-Contributing
-
-
-Contributions are welcome! If you have any suggestions, bug fixes, or new features to propose, please feel free to open an issue or submit a pull request.
-
-License
-This project is licensed under the MIT License.
